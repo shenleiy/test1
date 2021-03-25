@@ -1,5 +1,0 @@
-2020-10-26 15:56:37,267 - D:/Python/PyCharm Community Edition 2019.2.3/自动化测试/logs/log.py[line:34] - DEBUG: debug
-2020-10-26 15:56:37,267 - D:/Python/PyCharm Community Edition 2019.2.3/自动化测试/logs/log.py[line:35] - INFO: info
-2020-10-26 15:56:37,267 - D:/Python/PyCharm Community Edition 2019.2.3/自动化测试/logs/log.py[line:36] - WARNING: 警告
-2020-10-26 15:56:37,268 - D:/Python/PyCharm Community Edition 2019.2.3/自动化测试/logs/log.py[line:37] - ERROR: 报错
-2020-10-26 15:56:37,268 - D:/Python/PyCharm Community Edition 2019.2.3/自动化测试/logs/log.py[line:38] - CRITICAL: 严重
